@@ -6,7 +6,7 @@ To install Pyportal, you will need Python installed on your system, and the dirt
 1. Download the .ZIP file. Press the green code button, then press download zip.
 2. Extract the .ZIP file. You typiclly can do this by double clicking on the .ZIP file.
 3. Drag and drop the .ZIP file to where you want to store it.
-4. Find the directory (path). On Mac, you can hold option, right click and press copy as pathname. MAKE SURE you copy the path of the location, NOT the file.
+4. Find the directory (path). On Mac, you can hold option, right click and press copy as pathname, then paste the directory at the right step. MAKE SURE you copy the path of the location, NOT the file.
 # Running the program
 
 ## For Mac
